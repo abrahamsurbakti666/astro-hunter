@@ -18,4 +18,4 @@ Game arcade berbasis web HTML5 di mana pemain mengendalikan kapal untuk mengumpu
 
 ## Kredit dan Lisensi
 - Basis kode awal: Template Star Catcher - Mata Kuliah Web Browser Game.
-- Aset visual bintang: file assets/star.svg.
+- Aset visual bintang: file assets/star.svg. 
